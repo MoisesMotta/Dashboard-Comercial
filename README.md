@@ -41,7 +41,7 @@ Você pode acessar o dashboard interativo por meio do seguinte [link](https://ln
 
 ## Imagem do Dashboard
 
-![Dashboard Comercial](dahs%201.jfif)
+![Dashboard Comercial](Dashboard.jfif)
 
 ---
 
